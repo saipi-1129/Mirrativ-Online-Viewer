@@ -1,2 +1,2 @@
 # Mirrativ-Online-Viewer
-online user viewer
+PC版、web版でも視聴者情報を確認
